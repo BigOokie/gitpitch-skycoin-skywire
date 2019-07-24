@@ -1,3 +1,3 @@
-![SkycoinCloudLogo](assets/img/Skycoin-Cloud-BW-Horizontal@1x.png)
+---?image=assets/img/Skycoin-Cloud-Blue@1x.png
 
-## A Practical Introduction to everything Skycoin
+## A Practical Introduction
