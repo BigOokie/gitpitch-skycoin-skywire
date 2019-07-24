@@ -1,3 +1,3 @@
----?image=assets/img/Skycoin-Cloud-Blue@1x.png
+![SkycoinCloudLogo](assets/img/Skycoin-Cloud-BW-Horizontal@1x.png)
 
 ## A Practical Introduction
