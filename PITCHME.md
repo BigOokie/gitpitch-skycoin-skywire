@@ -1,5 +1,9 @@
----?include=topics/CoverPage/PITCHME.md
----?include=topics/Introduction/PITCHME.md
----?include=topics/Skycoin/PITCHME.md
----?include=topics/Skywire/PITCHME.md
----?include=topics/CX/PITCHME.md
+---?include=topics/1-Start/PITCHME.md
+---?include=topics/2-Project-Info/PITCHME.md
+---?include=topics/3-Presentor-Info/PITCHME.md
+---?include=topics/4-Skycoin/PITCHME.md
+---?include=topics/5-Skywire/PITCHME.md
+---?include=topics/6-CX/PITCHME.md
+---?include=topics/7-QA/PITCHME.md
+---?include=topics/2-Project-Info/PITCHME.md
+---?include=topics/8-End/PITCHME.md
