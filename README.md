@@ -28,7 +28,7 @@ The following outlines the Deck folder structure. This will assist in use and cu
 |   |   `-- PITCHME.md
 |   |-- 2-Project-Info      (Skycoin Project Information Slide)
 |   |   `-- PITCHME.md
-|   |-- 3-Presentor-Info    (Presenter Information Slide. Update this for your own use)
+|   |-- 3-Presenter-Info    (Presenter Information Slide. Update this for your own use)
 |   |   `-- PITCHME.md
 |   |-- 4-Skycoin           (Skycoin Slide Deck)
 |   |   `-- PITCHME.md
@@ -85,8 +85,8 @@ You will also probably want to update the `3-Presenter-Info\PITCHME.md` to inclu
 
 <div class="align-points">
 	<i class="fa fa-telegram"></i> @BigOokie<br/>
-	<i class="fa fa-twitter"></i> @BigOokie<br/>
-	<i class="fa fa-github"></i> [github.com/BigOokie](https://github.com/BigOokie)<br/>
+	<i class="fa fa-twitter"></i> [@BigOokie](https://twitter.com/BigOokie)<br/>
+	<i class="fa fa-github"></i> [BigOokie](https://github.com/BigOokie)<br/>
 </div>
 ```
 **Note:** [Font Awesome](https://fontawesome.com/) is supported an provides the nice glyphs such as: `fa-globe`, `fa-github`, `fa-telegram`, `fa-github`

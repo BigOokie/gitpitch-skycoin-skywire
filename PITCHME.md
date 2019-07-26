@@ -1,6 +1,6 @@
 ---?include=topics/1-Start/PITCHME.md
 ---?include=topics/2-Project-Info/PITCHME.md
----?include=topics/3-Presentor-Info/PITCHME.md
+---?include=topics/3-Presenter-Info/PITCHME.md
 ---?include=topics/4-Skycoin/PITCHME.md
 ---?include=topics/5-Skywire/PITCHME.md
 ---?include=topics/6-CX/PITCHME.md
