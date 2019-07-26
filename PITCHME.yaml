@@ -1,23 +1,10 @@
-theme: moon
-# background: assets/bg.jpg
-# background-size: cover
+theme            : template
 
-# logo: assets/img/logo.png
-
-highlight: monokai
-
-slide-number: true
-
-footnote: "gitpitch.com/BigOokie/skycoin-gitpitch-decks"
-
-# mathjax: TeX-MML-AM_HTMLorMML-full
-
-vertical-center: true
-
-theme-override: assets/css/main.css
-
-transition: concave
-
-mousewheel: false
-
-gatoken: UA-83943642-2
+theme-background : [ "#FFF" ]
+theme-headline   : [ "Raleway", "#5289F7", "none" ]
+theme-byline     : [ "Raleway", "#111111", "none" ]
+theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Source Code Pro" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
