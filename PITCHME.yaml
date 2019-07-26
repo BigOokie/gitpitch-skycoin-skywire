@@ -1,9 +1,9 @@
 theme            : template
 
 theme-background : [ "#1E2227" ]
-theme-headline   : [ "Raleway", "#0072FF", "none" ]
-theme-byline     : [ "Raleway", "#FBFBFB", "none" ]
-theme-text       : [ "Ubuntu", "#FBFBFB", "none" ]
+theme-headline   : [ "Skycoin", "#0072FF", "none" ]
+theme-byline     : [ "Skycoin", "#FBFBFB", "none" ]
+theme-text       : [ "Skycoin", "#FBFBFB", "none" ]
 theme-links      : [ "#0072FF", "#0072FF" ]
 theme-code       : [ "Source Code Pro" ]
 theme-controls   : [ "#0072FF" ]
