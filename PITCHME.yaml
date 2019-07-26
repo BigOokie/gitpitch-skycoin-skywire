@@ -8,3 +8,11 @@ theme-links      : [ "#0072FF", "#0072FF" ]
 theme-code       : [ "Source Code Pro" ]
 theme-controls   : [ "#0072FF" ]
 theme-margins    : [ "0", "15px" ]
+
+code-line-numbers : true
+
+title : "Skycoin Information Slide Deck"
+description : "Everything you need to know about Skycoin, Skywire and CX"
+thumbnail : assets/img/Skycoin-Cloud-BW-Vertical@1x.png
+
+footnote : "GitPitch - Kitchen Sink Feature Tour" 
