@@ -1,10 +1,10 @@
 theme            : template
 
-theme-background : [ "black" ]
-theme-headline   : [ "Raleway", "#5289F7", "none" ]
-theme-byline     : [ "Raleway", "#111111", "none" ]
-theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
-theme-links      : [ "#5289F7", "#5254F7" ]
+theme-background : [ "#1E2227" ]
+theme-headline   : [ "Raleway", "#0072FF", "none" ]
+theme-byline     : [ "Raleway", "#FBFBFB", "none" ]
+theme-text       : [ "Ubuntu", "#FBFBFB", "none" ]
+theme-links      : [ "#0072FF", "#0072FF" ]
 theme-code       : [ "Source Code Pro" ]
-theme-controls   : [ "#484848" ]
+theme-controls   : [ "#0072FF" ]
 theme-margins    : [ "0", "15px" ]
